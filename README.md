@@ -26,6 +26,10 @@ Os dados foram selecionados a partir de uma competição disponível no site do 
 * [PyCaret](https://pycaret.gitbook.io/docs/) - Biblioteca de AutoML
 * [Jupyter](https://jupyter.org/) - Ferramenta de computação
 
+## 🎯 Resultado no Kaggle
+
+![image](https://user-images.githubusercontent.com/116772002/218157636-c7cc3c8d-2ca4-45be-8430-f0e2bf69230e.png)
+
 
 ## 🏃 Autor
 
